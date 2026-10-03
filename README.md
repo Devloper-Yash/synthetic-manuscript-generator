@@ -39,6 +39,8 @@ Dataset: yashh-code/synthetic-manuscript-dataset
 
 Hugging Face: https://huggingface.co/datasets/yashh-code/synthetic-manuscript-dataset
 
+https://huggingface.co/datasets/yashh-code/synthetic-manuscript-dataset
+
 ## Project Structure
 
 ```text

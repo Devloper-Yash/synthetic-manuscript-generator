@@ -33,6 +33,12 @@ For every generated manuscript image, a corresponding Markdown (`.md`) annotatio
 - Train, validation and test dataset splits
 - Support for Devanagari, Modi and Sharada scripts
 
+## Hugging Face Dataset
+
+Dataset: yashh-code/synthetic-manuscript-dataset
+
+Hugging Face: https://huggingface.co/datasets/yashh-code/synthetic-manuscript-dataset
+
 ## Project Structure
 
 ```text
@@ -53,3 +59,4 @@ synthetic-manuscript-generator/
 │
 ├── generate.py
 └── README.md
+
